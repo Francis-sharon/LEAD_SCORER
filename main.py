@@ -72,9 +72,6 @@ for column in numeric_columns:
 # Create a new DataFrame with the user input
 user_input = pd.DataFrame(feature_values, index=[0])
 
-
-
-
 # Make predictions on the user input
 user_pred = model.predict(user_input)
 print(user_predictions_df)
@@ -87,12 +84,3 @@ if user_pred == 0:
 else:
     print("Lead is of Higher Focus")
     print("MODEL SCORE: HOT lEAD")
-
-# Print the predictions or use as needed
-
-
-# ... (previous code)
-
-# Ask for user input for different features
-
-# ... (rest of the code)
