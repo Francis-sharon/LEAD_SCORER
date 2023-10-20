@@ -1,0 +1,101 @@
+,Lead Origin,Lead Source,Do Not Email,Do Not Call,Converted,TotalVisits,Total Time Spent on Website,Last Activity,Country,employement,city
+0,Lead Origin,Reference,No,No,0,0,0,Page Visited on Website,Unknown,Unemployed,chennai
+1,Lead Origin,Organic Search,No,No,0,5,674,Email Opened,India,Unemployed,Chennai
+2,Lead Origin,Direct Traffic,No,No,1,2,1532,Email Opened,India,Student,Mumbai
+3,Lead Origin,Direct Traffic,No,No,0,1,305,Unreachable,India,Unemployed,Mumbai
+4,Lead Origin,Reference,No,No,1,2,1428,Converted to Lead,India,Unemployed,Mumbai
+5,API,Reference,No,No,0,0,0,Olark Chat Conversation,Unknown,Unknown,Unknown
+6,Landing Page Submission,Reference,No,No,1,2,1640,Email Opened,India,Unemployed,Mumbai
+7,API,Reference,No,No,0,0,0,Olark Chat Conversation,Unknown,Unknown,Unknown
+8,Landing Page Submission,Direct Traffic,No,No,0,2,71,Email Opened,India,Unknown,Thane & Outskirts
+9,API,Reference,No,No,0,4,58,Email Opened,India,Unknown,Mumbai
+10,Landing Page Submission,Organic Search,No,No,1,8,1351,Email Opened,India,Unemployed,Other Metro Cities
+11,Landing Page Submission,Direct Traffic,No,No,1,8,1343,Page Visited on Website,India,Unemployed,Thane & Outskirts
+12,API,Organic Search,No,No,1,11,1538,Email Opened,India,Unemployed,Chennai
+13,Landing Page Submission,Organic Search,No,No,0,5,170,Email Opened,India,Unemployed,Thane & Outskirts
+14,Landing Page Submission,Direct Traffic,Yes,No,0,1,481,Email Bounced,Russia,Unemployed,Chennai
+15,API,Organic Search,No,No,1,6,1012,Email Opened,India,Unemployed,Chennai
+16,API,Reference,No,No,0,0,0,Olark Chat Conversation,Unknown,Unknown,Unknown
+17,API,Referral Sites,No,No,0,6,973,Email Link Clicked,India,Unemployed,Chennai
+18,Landing Page Submission,Reference,No,No,1,6,1688,Page Visited on Website,India,Unemployed,Mumbai
+19,Unknown,Unknown,Unknown,Unknown,0,3.884210526,539.8585859,Unknown,Unknown,Unknown,Unknown
+20,Landing Page Submission,Reference,No,No,0,1,233,Unreachable,India,Unemployed,Mumbai
+21,API,Reference,No,No,0,4,377,Page Visited on Website,India,Unemployed,Chennai
+22,Landing Page Submission,Reference,No,No,1,1,1013,Converted to Lead,India,Unemployed,Mumbai
+23,Landing Page Submission,Reference,No,No,0,4,771,Email Link Clicked,India,Unemployed,Mumbai
+24,API,Reference,No,No,1,6,1137,Email Opened,India,Unemployed,Mumbai
+25,Landing Page Submission,Reference,No,No,1,3,1068,Form Submitted on Website,India,Unemployed,Mumbai
+26,Landing Page Submission,Organic Search,No,No,1,4,1000,Email Opened,India,Unemployed,Other Cities
+27,Landing Page Submission,Reference,No,No,1,6,1315,Email Opened,India,Unemployed,Mumbai
+28,Landing Page Submission,Direct Traffic,No,No,0,5,182,Email Opened,India,Student,Mumbai
+29,API,Reference,No,No,1,3,78,Unreachable,India,Unemployed,Mumbai
+30,Landing Page Submission,Direct Traffic,No,No,1,7,1174,Email Opened,India,Unemployed,Mumbai
+31,API,Reference,No,No,0,3,88,Email Opened,India,Unemployed,Chennai
+32,API,Referral Sites,No,No,0,4,223,Page Visited on Website,India,Unemployed,Chennai
+33,API,Organic Search,No,No,0,3,74,Email Opened,India,Unknown,Unknown
+34,Landing Page Submission,Organic Search,No,No,1,4,16,Page Visited on Website,India,Unemployed,Mumbai
+35,API,Referral Sites,No,No,1,3,98,Email Opened,India,Unemployed,Thane & Outskirts
+36,Landing Page Submission,Reference,No,No,0,4,1622,Unreachable,India,Unemployed,Mumbai
+37,Landing Page Submission,Reference,No,No,1,5,563,Email Opened,India,Working Professional,Mumbai
+38,API,Reference,No,No,0,2,310,Email Link Clicked,India,Unemployed,Chennai
+39,Landing Page Submission,Reference,No,No,1,4,25,Email Opened,India,Unemployed,Other Cities of Maharashtra
+40,API,Direct Traffic,No,No,0,3,342,Email Opened,India,Unemployed,Chennai
+41,Landing Page Submission,Organic Search,Yes,No,0,7,38,Unsubscribed,India,Unemployed,Mumbai
+42,API,Reference,No,No,0,5,199,Email Opened,India,Unemployed,Chennai
+43,Landing Page Submission,Reference,No,No,0,5,222,Email Opened,India,Unknown,Mumbai
+44,Landing Page Submission,Direct Traffic,No,No,0,6,275,Email Opened,India,Unemployed,Mumbai
+45,Landing Page Submission,Reference,No,No,0,4,287,Email Opened,India,Unemployed,Mumbai
+46,Landing Page Submission,Direct Traffic,No,No,0,2,547,Email Opened,India,Unemployed,Mumbai
+47,API,Reference,No,No,0,0,0,Olark Chat Conversation,Unknown,Unknown,Unknown
+48,API,Reference,No,No,0,6,1225,Page Visited on Website,India,Unemployed,Thane & Outskirts
+49,API,Reference,No,No,0,0,0,Olark Chat Conversation,Unknown,Unknown,Unknown
+50,API,Reference,No,No,1,0,0,Email Opened,Unknown,Unemployed,Thane & Outskirts
+51,Landing Page Submission,Reference,No,No,0,5,160,Email Opened,India,Unemployed,Mumbai
+52,Landing Page Submission,Organic Search,No,No,0,6,394,Unreachable,India,Unemployed,Mumbai
+53,API,Reference,No,No,0,6,286,Olark Chat Conversation,India,Unknown,Unknown
+54,API,Organic Search,No,No,0,7,96,Email Opened,India,Unknown,Unknown
+55,API,Organic Search,No,No,0,2,12,Email Opened,India,Unemployed,Chennai
+56,Landing Page Submission,Referral Sites,No,No,1,13,436,Form Submitted on Website,India,Unemployed,Other Metro Cities
+57,API,Referral Sites,No,No,1,8,903,Page Visited on Website,India,Unemployed,Other Cities of Maharashtra
+58,Landing Page Submission,Organic Search,No,No,0,17,409,Email Opened,India,Unemployed,Mumbai
+59,Landing Page Submission,Referral Sites,No,No,0,11,685,Email Opened,India,Unemployed,Thane & Outskirts
+60,API,Reference,No,No,0,4,213,Form Submitted on Website,India,Unemployed,Mumbai
+61,API,Reference,No,No,0,0,0,Email Opened,Unknown,Unemployed,Chennai
+62,API,Organic Search,No,No,1,7,1468,Page Visited on Website,India,Unemployed,Mumbai
+63,API,Reference,No,No,0,0,0,Email Link Clicked,Unknown,Unknown,Unknown
+64,Landing Page Submission,Direct Traffic,No,No,1,4,1435,Email Opened,India,Working Professional,Other Cities
+65,Landing Page Submission,Reference,No,No,1,1,157,Converted to Lead,India,Unemployed,Other Cities of Maharashtra
+66,API,Reference,No,No,1,3,885,Had a Phone Conversation,India,Unemployed,Mumbai
+67,API,Reference,No,No,1,0,0,Email Opened,Unknown,Unemployed,Other Cities of Maharashtra
+68,API,Reference,No,No,0,0,0,View in browser link Clicked,Unknown,Unemployed,Chennai
+69,API,Reference,No,No,0,0,0,Olark Chat Conversation,Unknown,Unemployed,Chennai
+70,Landing Page Submission,Direct Traffic,No,No,0,1,1710,Converted to Lead,India,Unemployed,Thane & Outskirts
+71,Landing Page Submission,Direct Traffic,No,No,0,4,219,Email Opened,India,Unemployed,Mumbai
+72,Landing Page Submission,Referral Sites,Yes,No,0,3,111,Email Bounced,India,Unemployed,Other Metro Cities
+73,API,Organic Search,No,No,0,6,224,Page Visited on Website,India,Unemployed,Chennai
+74,Landing Page Submission,Direct Traffic,No,No,0,5,224,Page Visited on Website,India,Unknown,Other Cities of Maharashtra
+75,Landing Page Submission,Direct Traffic,No,No,1,2,1071,Email Opened,India,Unemployed,Other Cities of Maharashtra
+76,Landing Page Submission,Reference,No,No,1,6,595,Email Opened,India,Working Professional,Mumbai
+77,Lead Add Form,Welingak Website,No,No,1,3.884210526,1096,Unknown,Unknown,Unemployed,Chennai
+78,API,Referral Sites,No,No,0,4,520,Email Opened,India,Unemployed,Mumbai
+79,Lead Add Form,Reference,No,No,1,3.884210526,705,Unknown,Unknown,Working Professional,Thane & Outskirts
+80,API,Reference,No,No,0,2,393,Email Opened,India,Unemployed,Chennai
+81,Lead Add Form,Welingak Website,No,No,1,3.884210526,346,Unknown,Unknown,Unemployed,Chennai
+82,API,Reference,No,No,1,0,0,Email Link Clicked,Unknown,Working Professional,Chennai
+83,API,Reference,No,No,0,0,0,Olark Chat Conversation,Unknown,Unknown,Unknown
+84,Landing Page Submission,Reference,No,No,1,3,1136,Page Visited on Website,India,Unemployed,Mumbai
+85,API,Referral Sites,No,No,0,3,335,Email Opened,India,Unemployed,Chennai
+86,API,Referral Sites,No,No,0,4,75,Email Opened,India,Unemployed,Chennai
+87,Landing Page Submission,Direct Traffic,No,No,0,6,97,Email Opened,Kuwait,Unknown,Mumbai
+88,Lead Add Form,Reference,No,No,1,3.884210526,1007,Unknown,Unknown,Unemployed,Mumbai
+89,Landing Page Submission,Organic Search,No,No,0,2,1085,Converted to Lead,India,Unemployed,Other Cities of Maharashtra
+90,API,Organic Search,No,No,0,3,214,Page Visited on Website,India,Unemployed,Chennai
+91,API,Reference,No,No,1,6,1158,Email Opened,India,Unemployed,Other Cities
+92,Landing Page Submission,Reference,No,No,0,4,101,Email Opened,India,Unknown,Mumbai
+93,Landing Page Submission,Reference,No,No,0,9,838,Email Opened,India,Unknown,Mumbai
+94,Landing Page Submission,Direct Traffic,No,No,0,3,536,Unreachable,India,Unemployed,Mumbai
+95,Landing Page Submission,Direct Traffic,No,No,0,4,161,Unreachable,India,Unemployed,Chennai
+96,Landing Page Submission,Reference,No,No,0,2,511,Form Submitted on Website,India,Unemployed,Mumbai
+97,API,Reference,No,No,0,0,0,Olark Chat Conversation,Unknown,Unemployed,Chennai
+98,API,Reference,No,No,1,5,1110,Olark Chat Conversation,India,Working Professional,Chennai
+99,Landing Page Submission,Direct Traffic,No,No,1,5,1563,Email Opened,India,Unemployed,Mumbai
