@@ -40,36 +40,57 @@ model.fit(X_train, y_train)
 # Make predictions on the test set
 y_pred = model.predict(X_test)
 
-# Calculate the confusion matrix
-confusion_matrix = confusion_matrix(y_test, y_pred)
-
-acc = accuracy_score(y_test, y_pred)
-print("\nOVERALL ACCURACY SCORE: ", acc)
-
-sns.heatmap(confusion_matrix/np.sum(confusion_matrix), annot=True,
-            fmt='.2%', cmap='Blues').set(title='Confusion matrix: Logistic Regression')
-
-r = classification_report(y_test, y_pred)
-print("\n CLASSIFICATION REPORT: \n", r)
-
 # Ask for user input for different features
 feature_values = {}
 for column in X.columns:
     if column == "Unnamed: 0":
         feature_values[column] = 1
-    else:
-        value = input(f"Enter the value for {column}: ")
-        print(f"{column}: {value}")  # print user input for debugging
+    elif column == "Lead Origin":
+        value = input(f"Enter the value for {column} (API/Website): ")
+        print(f"{column}: {value}")  
         feature_values[column] = value
-# Preprocess user input (e.g., transform using LabelEncoder)
+    elif column == "Lead Source":
+        value = input(f"Enter the value for {column} (Reference/Direct traffic): ")
+        print(f"{column}: {value}")  
+        feature_values[column] = value
+    elif column == "Do Not Call":
+        value = input(f"Enter the value for {column} (yes/no): ")
+        print(f"{column}: {value}")  
+        feature_values[column] = value
+    elif column == "Do Not Email":
+        value = input(f"Enter the value for {column} (yes/no): ")
+        print(f"{column}: {value}")  
+        feature_values[column] = value
+    elif column == "TotalVisits":
+        value = input(f"Enter the value for {column} (in numbers): ")
+        print(f"{column}: {value}")  
+        feature_values[column] = value
+    elif column == "Total Time Spent on Website":
+        value = input(f"Enter the value for {column} (in hours): ")
+        print(f"{column}: {value}")  
+        feature_values[column] = value
+    elif column == "Last Activity":
+        value = input(f"Enter the value for {column} (page visited/email opened): ")
+        print(f"{column}: {value}")  
+        feature_values[column] = value
+    elif column == "Country":
+        value = input(f"Enter the value for {column}: ")
+        print(f"{column}: {value}")  
+        feature_values[column] = value
+    elif column == "employment":
+        value = input(f"Enter the value for {column} (employed/unemployed/Student): ")
+        print(f"{column}: {value}")  
+        feature_values[column] = value
+    elif column == "city":
+        value = input(f"Enter the value for {column}: ")
+        print(f"{column}: {value}")  
+        feature_values[column] = value
 for column in string_columns:
     feature_values[column] = label_encoders[column].transform([feature_values[column]])[0]
 
-# Convert numeric features to appropriate type
 for column in numeric_columns:
     feature_values[column] = float(feature_values[column])
 
-# Create a new DataFrame with the user input
 user_input = pd.DataFrame(feature_values, index=[0])
 
 # Make predictions on the user input
