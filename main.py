@@ -83,4 +83,4 @@ if user_pred == 0:
     print("MODEL SCORE: AVERAGE LEAD")
 else:
     print("Lead is of Higher Focus")
-    print("MODEL SCORE: HOT lEAD")
+    print("MODEL SCORE: HOT LEAD")
